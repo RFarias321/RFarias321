@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RFarias321
 - 👀 I'm interested in learning Python and R in collaborative projects
-- I'm currently learning Python
+- 🌱 I'm currently learning Python
 - 💞️ I'm looking to collaborate on education projects and public policies for inclusion and diversity
 - 📫 How to reach me https://www.linkedin.com/in/roberto-farias-560318125/
 <!---
